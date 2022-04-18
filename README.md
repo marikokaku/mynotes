@@ -23,6 +23,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Links:
+[Deployed Heroku](https://cryptic-wave-93739.herokuapp.com/)
+
 ## For any additional questions:
 - Github: [marikokaku](https://github.com/marikokaku)
 - Email: mkaku98@gmail.com
